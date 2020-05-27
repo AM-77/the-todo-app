@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/the-todo-app/static/css/main.58877117.chunk.css",
+    "main.js": "/the-todo-app/static/js/main.1f199cb9.chunk.js",
+    "main.js.map": "/the-todo-app/static/js/main.1f199cb9.chunk.js.map",
+    "runtime-main.js": "/the-todo-app/static/js/runtime-main.2586b4ca.js",
+    "runtime-main.js.map": "/the-todo-app/static/js/runtime-main.2586b4ca.js.map",
+    "static/css/2.77dcd65d.chunk.css": "/the-todo-app/static/css/2.77dcd65d.chunk.css",
+    "static/js/2.6c90934b.chunk.js": "/the-todo-app/static/js/2.6c90934b.chunk.js",
+    "static/js/2.6c90934b.chunk.js.map": "/the-todo-app/static/js/2.6c90934b.chunk.js.map",
+    "index.html": "/the-todo-app/index.html",
+    "precache-manifest.54d16367e1e58504a167ceb91ba03a55.js": "/the-todo-app/precache-manifest.54d16367e1e58504a167ceb91ba03a55.js",
+    "service-worker.js": "/the-todo-app/service-worker.js",
+    "static/css/2.77dcd65d.chunk.css.map": "/the-todo-app/static/css/2.77dcd65d.chunk.css.map",
+    "static/css/main.58877117.chunk.css.map": "/the-todo-app/static/css/main.58877117.chunk.css.map",
+    "static/media/index.css": "/the-todo-app/static/media/RopaSans-Regular.0eadef57.ttf",
+    "static/media/all.min.css": "/the-todo-app/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2586b4ca.js",
+    "static/css/2.77dcd65d.chunk.css",
+    "static/js/2.6c90934b.chunk.js",
+    "static/css/main.58877117.chunk.css",
+    "static/js/main.1f199cb9.chunk.js"
+  ]
+}
